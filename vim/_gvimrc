@@ -1,0 +1,11 @@
+set guifont=Lucida_Console:h8:cANSI
+set guioptions=gmrbTt
+set vb t_vb=
+"set lines=70
+"set co=110
+if &diff
+   set co=200
+endif
+:winsize 110 90  
+":winp 285 185
+:winp 414 36
